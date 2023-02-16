@@ -8,7 +8,7 @@ Desenvolvido uma aplicação de controle financeiro.
 
 ![todo](https://user-images.githubusercontent.com/50672568/219498900-a4904220-e263-4b5c-ae1a-ebd601284b0d.gif)
 
-![dtmoney-responsivo](https://user-images.githubusercontent.com/50672568/219498961-5614f173-5e7d-4497-a8ca-ec922ecfa78f.jpg)
+![todo](https://user-images.githubusercontent.com/50672568/219499273-bea292d6-3e8f-4436-9d7d-272ee5d4983a.gif)
 
 
 # Ferramentas utilizadas
