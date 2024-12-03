@@ -1,6 +1,6 @@
 # Projeto dtmoney
 
-Aula 2 - Trilha Ignite de 2021 da Rocketseat 💜
+Aula da trilha Ignite da Rocketseat 💜
 
 Desenvolvido uma aplicação de controle financeiro.
 
